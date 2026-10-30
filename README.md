@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# Profile ReadMe as requested in "Getting started with GitHub"
 <!--
 **nicksignal/nicksignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
